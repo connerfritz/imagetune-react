@@ -1,9 +1,17 @@
-# ImageTune React
+# imagetune-react
+
+<img src="https://raw.githubusercontent.com/connerfritz/imagetune-react/main/example/public/logo.png" height="200px"/>
+
 A React Component implementation of [ImageTune](https://github.com/connerfritz/imagetune), an automatic browser-based image resizer and compressor.
+
+[![NPM](https://img.shields.io/npm/v/imagetune-react.svg)](https://www.npmjs.com/package/imagetune-react) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+
+## Live Demo
+Check out the demo [here](https://connerfritz.github.io/imagetune-react/).
 
 ## Usage
 Install ImageTune React
-```sh
+```bash
 npm i imagetune-react
 ```
 
@@ -52,3 +60,8 @@ To the end user, there is no difference between this component and the native fi
 ## Note
 
 > Because we use the native File constructor, this component does not support Internet Explorer. Check [Can I Use](https://caniuse.com/fileapi) for more information.
+
+
+## License
+
+MIT © [connerfritz](https://github.com/connerfritz)
